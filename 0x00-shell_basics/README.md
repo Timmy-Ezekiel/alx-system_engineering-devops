@@ -30,3 +30,5 @@
 
 
 * ./100-lets_move: This mv files that begines with uppercase to /tmp/u
+
+* ./101-clean_emacs: This script delet all files that end with the ~ character
