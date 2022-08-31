@@ -11,3 +11,5 @@
 * ./5-listfilesdigitonly: This script list in long format with user and group IDS displayed numerically
 
 * ./6-firstdirectory: This create a directory called my_first_directory in the /tmp/ directory
+
+* ./7-movethatfile: This move the betty file from /tmp/ to /tmp/my_first_diretory
