@@ -27,3 +27,6 @@
 * ./13-symbolic_link: This script create a symbolic link for /bin/ls
 
 * ./14-copy_html: THis script copy files
+
+
+* ./100-lets_move: This mv files that begines with uppercase to /tmp/u
