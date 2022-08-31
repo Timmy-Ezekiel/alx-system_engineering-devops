@@ -23,3 +23,5 @@
 * ./11-lists: This print all the content of the specified directory in long formats
 
 * ./12-file_type: This print the type of the file named iamafile
+
+* ./13-symbolic_link: This script create a symbolic link for /bin/ls
