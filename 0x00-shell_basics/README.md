@@ -15,3 +15,5 @@
 * ./7-movethatfile: This move the betty file from /tmp/ to /tmp/my_first_diretory
 
 * ./8-firstdelet: This script delete the betty created in /tmp/my_first_directory
+
+* ./9-firstdirdeletion: This script delete my_first_directory created in /tmp/
