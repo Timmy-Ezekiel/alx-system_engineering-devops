@@ -21,3 +21,5 @@
 * ./10-back: this script change the working directory to the previous one
 
 * ./11-lists: This print all the content of the specified directory in long formats
+
+* ./12-file_type: This print the type of the file named iamafile
