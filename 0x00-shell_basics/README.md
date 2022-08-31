@@ -9,3 +9,5 @@
 * ./4-listmorefiles: This script list the content including the hidden ones in long format
 
 * ./5-listfilesdigitonly: This script list in long format with user and group IDS displayed numerically
+
+* ./6-firstdirectory: This create a directory called my_first_directory in the /tmp/ directory
