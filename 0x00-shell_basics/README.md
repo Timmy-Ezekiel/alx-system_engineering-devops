@@ -17,3 +17,5 @@
 * ./8-firstdelet: This script delete the betty created in /tmp/my_first_directory
 
 * ./9-firstdirdeletion: This script delete my_first_directory created in /tmp/
+
+* ./10-back: this script change the working directory to the previous one
