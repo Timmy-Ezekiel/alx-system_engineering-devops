@@ -34,3 +34,5 @@
 * ./101-clean_emacs: This script delet all files that end with the ~ character
 
 * ./102-tree: This script create folders inside folder making welcome/to/school/
+
+* ./103-commas: This file list files and directory and separating them with commas and also directory endwith a slash.
