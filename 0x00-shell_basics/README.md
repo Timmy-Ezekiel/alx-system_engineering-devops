@@ -7,3 +7,5 @@
 * ./3-listfiles: This bash script output the content of the working directory in long format
 
 * ./4-listmorefiles: This script list the content including the hidden ones in long format
+
+* ./5-listfilesdigitonly: This script list in long format with user and group IDS displayed numerically
