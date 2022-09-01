@@ -2,6 +2,8 @@
 
 * ./0-iam_betty: This scipt switches the current user to the user betty
 
+* ./2-groups: This file prints all the groups the current user is part of.
+
 * ./3-new_owner: This script chane the owner of the file hello to the user betty
 
 * ./4-empty: This script file create an empty file called "hello"
