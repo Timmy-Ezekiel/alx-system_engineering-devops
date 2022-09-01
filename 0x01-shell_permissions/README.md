@@ -9,3 +9,5 @@
 * ./8-James_Bond: This script sets the permission to the file ad no permision but only other as all permision.
 
 * ./9-John_Doe: This script ses the mode ofthe hello file to -rwxr-x-wx
+
+* ./13-change_group: This script change the group owner to school for the file hello
