@@ -1,3 +1,5 @@
+* ./1-who_am_i: This script prints the effective username of the current user
+
 * ./0-iam_betty: This scipt switches the current user to the user betty
 
 * ./3-new_owner: This script chane the owner of the file hello to the user betty
