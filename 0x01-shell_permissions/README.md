@@ -4,3 +4,4 @@
 
 * ./6-multiple_permissions: This script file add execute permission to the onwer and the group owner and read permission to other users.
 
+* ./7-everybody: This script file add execution permission to the owner, the gorup onwer and other users to the file.
