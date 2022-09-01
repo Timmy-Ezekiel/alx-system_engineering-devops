@@ -7,3 +7,5 @@
 * ./7-everybody: This script file add execution permission to the owner, the gorup onwer and other users to the file.
 
 * ./8-James_Bond: This script sets the permission to the file ad no permision but only other as all permision.
+
+* ./9-John_Doe: This script ses the mode ofthe hello file to -rwxr-x-wx
