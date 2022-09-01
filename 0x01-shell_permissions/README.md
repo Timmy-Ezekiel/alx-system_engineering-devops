@@ -10,4 +10,6 @@
 
 * ./9-John_Doe: This script ses the mode ofthe hello file to -rwxr-x-wx
 
+* ./12-directory_permissions: This script creates a directory called my_dir with the permission 751
+
 * ./13-change_group: This script change the group owner to school for the file hello
