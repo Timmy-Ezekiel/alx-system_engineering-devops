@@ -1,3 +1,5 @@
+* ./0-iam_betty: This scipt switches the current user to the user betty
+
 * ./3-new_owner: This script chane the owner of the file hello to the user betty
 
 * ./4-empty: This script file create an empty file called "hello"
@@ -11,6 +13,8 @@
 * ./8-James_Bond: This script sets the permission to the file ad no permision but only other as all permision.
 
 * ./9-John_Doe: This script ses the mode ofthe hello file to -rwxr-x-wx
+
+* ./10-mirro_permission: This script that set the mode of the file hello the same as the olleh mode.
 
 * ./12-directory_permissions: This script creates a directory called my_dir with the permission 751
 
