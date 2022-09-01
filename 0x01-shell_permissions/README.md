@@ -23,3 +23,11 @@
 * ./12-directory_permissions: This script creates a directory called my_dir with the permission 751
 
 * ./13-change_group: This script change the group owner to school for the file hello
+
+* ./100-change_owner_and_group: This script change the owner to vincent and group to staff for all files and directories
+
+* ./101-symbolic_link_permissions: This script that change the owner and group owner of _hello to vincent and staff._
+
+* ./102-if_only: This sciprt that change the owner of the file hello to betty only if it is owned by the user guillaume.
+
+* ./103-Star_Wars: This script write that will play the StarWars IV episode in the terminal.
